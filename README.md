@@ -5,8 +5,8 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/arthur-venturi-7549952b9) 
 
 ## 🔉 Línguas:
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ArthurVenturi/ArthurVenturi/blob/README.md)
-[![en-us](https://img.shields.io/badge/lang-en--us-red.svg)](https://github.com/ArthurVenturi/ArthurVenturi/blob/languages/README.en-us.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ArthurVenturi/ArthurVenturi/blob/main/README.md)
+[![en-us](https://img.shields.io/badge/lang-en--us-red.svg)](https://github.com/ArthurVenturi/ArthurVenturi/blob/main/README.en-us.md)
 
 # 💻 Stack Tecnológica:
 ![TechStack](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,py,angular,java,hibernate,spring,cs,php,git,github,figma,xd,arduino,dart,mysql,postgres,prisma,firebase,git,github)
