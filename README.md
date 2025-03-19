@@ -15,4 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=ArthurVenturi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVenturi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-![Animação de Cobra](https://github.com/ArthurVenturi/ArthurVenturi/blob/output/github-contribution-grid-snake.svg)
+![Animação de Cobra](https://github.com/ArthurVenturi/ArthurVenturi/blob/output/github-contribution-grid-snake-dark.svg)
