@@ -1,3 +1,8 @@
+<p align='center'>
+  
+  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Arthur%20Venturi.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+</p>
+
 # 💫 Sobre Mim:
 👋Olá! Atualmente sou estudante cursando Bacharelado em Tecnologia em Análise e Desenvolvimento de Sistemas na Faculdade Senac Portão. Minha jornada acadêmica inclui experiência prática com Dart, Spring Boot, React.js, Node.js e Express.<br><br>🌱 Além dos meus cursos, estou explorando de forma independente Engenharia de Prompt e IA para ampliar meu conjunto de habilidades e me manter atualizado com as tecnologias emergentes.<br><br>🔭 Estou ativamente buscando uma oportunidade de estágio na área de tecnologia onde eu possa aplicar minhas habilidades, contribuir para projetos reais e continuar crescendo como profissional.<br><br>🤝 Sinta-se à vontade para se conectar comigo ou conferir meus repositórios para ver no que tenho trabalhado
 
