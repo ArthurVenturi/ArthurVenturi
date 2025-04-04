@@ -1,23 +1,22 @@
 <p align='center'>
-  
-  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Arthur%20Venturi.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome!&fontSize=70&color=0:8A2BE2,100:23FFA3&stroke=23FFA3"></img>
 </p>
 
-# 💫 Sobre Mim:
-👋Olá! Atualmente sou estudante cursando Bacharelado em Tecnologia em Análise e Desenvolvimento de Sistemas na Faculdade Senac Portão. Minha jornada acadêmica inclui experiência prática com Dart, Spring Boot, React.js, Node.js e Express.<br><br>🌱 Além dos meus cursos, estou explorando de forma independente Engenharia de Prompt e IA para ampliar meu conjunto de habilidades e me manter atualizado com as tecnologias emergentes.<br><br>🔭 Estou ativamente buscando uma oportunidade de estágio na área de tecnologia onde eu possa aplicar minhas habilidades, contribuir para projetos reais e continuar crescendo como profissional.<br><br>🤝 Sinta-se à vontade para se conectar comigo ou conferir meus repositórios para ver no que tenho trabalhado
+# 💫 About Me:
+👋Hello! I'm currently a student pursuing a Bachelor's degree in Technology in Systems Analysis and Development at Faculdade Senac Portão. My academic journey includes hands-on experience with Flutter, React Native, React.js, Node.js, and Express.<br><br>🌱 In addition to my coursework, I am independently exploring Prompt Engineering and AI to broaden my skill set and stay updated with emerging technologies.<br><br>🔭 I am actively seeking an internship opportunity in the technology field where I can apply my skills, contribute to real-world projects, and continue to grow as a professional.<br><br>🤝 Feel free to connect with me or check out my repositories to see what I've been working on
 
-## 🌐 Redes Sociais:
+## 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/arthur-venturi-7549952b9) 
 
-## 🔉 Línguas:
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ArthurVenturi/ArthurVenturi/blob/main/README.md)
-[![en-us](https://img.shields.io/badge/lang-en--us-red.svg)](https://github.com/ArthurVenturi/ArthurVenturi/blob/main/README.en-us.md)
+## 🔉 Languages:
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ArthurVenturi/ArthurVenturi/blob/languages/README.md)
+[![en-us](https://img.shields.io/badge/lang-en--us-red.svg)](https://github.com/ArthurVenturi/ArthurVenturi/blob/README.en-us.md)
 
-# 💻 Stack Tecnológica:
+# 💻 Tech Stack:
 ![TechStack](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,py,angular,java,hibernate,spring,cs,php,git,github,figma,xd,arduino,dart,mysql,postgres,prisma,firebase,git,github)
 
-# 📊 Meu Histórico no GitHub:
+# 📊 My GitHub History:
 ![](https://github-readme-stats.vercel.app/api?username=ArthurVenturi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVenturi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-![Animação de Cobra](https://github.com/ArthurVenturi/ArthurVenturi/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/ArthurVenturi/ArthurVenturi/blob/output/github-contribution-grid-snake-dark.svg)
